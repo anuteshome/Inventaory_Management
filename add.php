@@ -1,5 +1,5 @@
 <?php
-include 'db.php';
+include 'db.php'; //connection
 if(isset($_POST['Add'])){
     $id=$_POST['id'];
     $name=$_POST['name'];
