@@ -23,8 +23,9 @@ $result=$conn->query($sql);
 
 }
 
-
+//Ending of Algorithm
 ?>
+
 
 
 <!DOCTYPE html>
