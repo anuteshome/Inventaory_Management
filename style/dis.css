@@ -1,0 +1,20 @@
+.title{
+    font-size: 60px;
+    font-family:cursive;
+}
+td{
+    font-family: cursive;
+    font-size: 30px;
+    padding-left: 3rem;
+    border-top: 1rem;
+    
+}
+.tb{
+    border-bottom: 1px;
+}
+table{
+    border: 1px red;
+}
+.header{
+    color: aqua;
+}

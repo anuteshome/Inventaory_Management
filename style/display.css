@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(0, 197, 141);
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tb{
+    display: flex;
+    justify-content: center;
+}
+.title{
+    font-size: 5rem;
+    text-align: center;
+}
+

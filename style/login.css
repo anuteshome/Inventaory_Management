@@ -1,0 +1,28 @@
+*{
+    background-color: rgb(233, 240, 238);
+}
+
+
+.box{
+    display: flex;
+    justify-content: center;
+    padding-top: 5rem;
+}
+.border{
+    padding: 10px 30px;
+    border-radius: 13px;
+    border: 1px double rgb(32, 32, 32);
+}
+.button{
+    padding: 5px 10px;
+    margin-left: 5rem;
+}
+h1{
+    font-size: 4rem;
+}
+form{
+    padding-left: 7rem;
+}
+.tb{
+    width:5rem;
+}
