@@ -1,1 +1,1 @@
-# Inventaory_Management System fork
+# Inventaory_Management System forked
